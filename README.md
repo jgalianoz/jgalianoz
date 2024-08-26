@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="300" src="https://user-images.githubusercontent.com/12010942/214678020-4df581de-0477-4a8f-964b-142091b83dad.png" />
+   <img width="300" src="https://avatars.githubusercontent.com/u/12010942?s=400&u=03c3d8adfb9e2461efa6992190bb6b00780ff07e&v=4" />
    <h3 align="center">¡Hey 👋! I'm jgalianoz 🇻🇪🇨🇴</h3>
 </p>
 
