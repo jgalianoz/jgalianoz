@@ -1,37 +1,39 @@
-<p align="center">
-   <img width="300" src="https://avatars.githubusercontent.com/u/12010942?s=400&u=03c3d8adfb9e2461efa6992190bb6b00780ff07e&v=4" />
-   <h3 align="center">¡Hey 👋! I'm jgalianoz 🇻🇪🇨🇴</h3>
-</p>
+<img align="left" width="190" src="https://avatars.githubusercontent.com/u/12010942?s=400&u=03c3d8adfb9e2461efa6992190bb6b00780ff07e&v=4" alt="jgalianoz" />
 
-<p align="center">I’m a Front-end Developer living in 📍Bogotá, Colombia.</p>
+## Juan Galiano
 
-<p align="center">
-  <a href="https://twitter.com/jgalianoz" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jgalianoz Twitter" height="28px" width="28px" />
-  </a>
+`FRONT-END DEVELOPER — BOGOTÁ, CO` 🇻🇪🇨🇴
 
-  <a href="https://www.instagram.com/jgalianoz/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jgalianoz Instagram" height="28px" width="28px" />
-  </a>
+‹Una línea sobre qué construís y para quién.›
 
-  <a href="https://medium.com/@jgalianoz" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="jgalianoz Medium" height="28px" width="28px" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge)](‹url›)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge)](https://www.linkedin.com/in/jgalianoz/)
+[![Twitter](https://img.shields.io/badge/TWITTER-1a1a1a?style=for-the-badge)](https://twitter.com/jgalianoz)
+[![Medium](https://img.shields.io/badge/MEDIUM-1a1a1a?style=for-the-badge)](https://medium.com/@jgalianoz)
 
-  <a href="https://www.linkedin.com/in/jgalianoz/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jgalianoz Linkedin" height="28px" width="28px" />
-  </a>
-</p>
+<br clear="left" />
 
-<br/>
+### Stack
 
-### What i'm up to
+`Core` &nbsp; ‹TypeScript, React, Next.js›  
+`Styles` &nbsp; ‹Tailwind CSS, CSS Modules, Framer Motion›  
+`Around` &nbsp; ‹Node.js, Vite, Playwright, Figma›
 
-- 🔭 I’m currently working on [Monoku](https://monoku.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
+### Products
 
-<br />
+| Producto | Qué es | Stack |
+| --- | --- | --- |
+| [‹proyecto›](‹url›) | ‹Una frase: qué resuelve.› | ‹TS · React› |
+
+### Currently
+
+`Work` &nbsp; Front-end developer at [Monoku](https://monoku.com)  
+`Side` &nbsp; ‹proyecto propio›  
+`Learning` &nbsp; ‹qué estás aprendiendo›
 
 ---
 
-![jgalianioz github stats](https://github-readme-stats.vercel.app/api?username=jgalianoz&show_icons=true&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jgalianoz&show_icons=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=57606a" alt="jgalianoz github stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalianoz&layout=compact&hide_border=true&title_color=1a1a1a&text_color=57606a" alt="top languages" />
+</p>
