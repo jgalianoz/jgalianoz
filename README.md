@@ -1,6 +1,6 @@
-<img align="left" width="190" src="https://avatars.githubusercontent.com/u/12010942?s=400&u=03c3d8adfb9e2461efa6992190bb6b00780ff07e&v=4" alt="Manuel Galindez" />
+<img align="left" width="170" src="https://avatars.githubusercontent.com/u/12010942?s=400&u=03c3d8adfb9e2461efa6992190bb6b00780ff07e&v=4" alt="Manuel Galindez" />
 
-## Manuel Galindez
+### Manuel Galindez
 
 `FRONT-END DEVELOPER — BOGOTÁ, CO` &nbsp;🇻🇪🇨🇴
 
@@ -11,11 +11,10 @@ I build front-end products that stay fast and legible long after the demo.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgalianoz/)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jgalianoz)
 [![Medium](https://img.shields.io/badge/MEDIUM-1a1a1a?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jgalianoz)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jgalianoz/)
 
 <br clear="left" />
 
-### Stack
+#### Stack
 
 `Core`&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,21 +32,14 @@ I build front-end products that stay fast and legible long after the demo.
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Products
+#### Products
 
 | Product | What it is | Stack |
 | --- | --- | --- |
 | **[RETROCYCLE_](https://retrocycle.dev/)** | Run better sprint retrospectives. No more chaos. | `TS` · `React` |
 
-### Currently
+#### Currently
 
 `Work`&nbsp;&nbsp; Front-end developer at **[Monoku](https://monoku.com)**  
 `Side`&nbsp;&nbsp; Building **[RETROCYCLE_](https://retrocycle.dev/)**  
 `Learning`&nbsp;&nbsp; Rust, and animation on the web
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jgalianoz&show_icons=true&hide_border=true&theme=transparent&title_color=6E56CF&icon_color=6E56CF&text_color=808080" alt="jgalianoz GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalianoz&layout=compact&hide_border=true&theme=transparent&title_color=6E56CF&text_color=808080" alt="Top languages" />
-</p>
