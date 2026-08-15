@@ -50,7 +50,6 @@ I care about performance, accessibility and the details users actually feel.
 | --- | --- | --- |
 | **[RETROCYCLE_](https://retrocycle.dev/)** | Run better sprint retrospectives. No more chaos. | `TS` · `React` |
 | **[QR Code Generator](https://marketplace.visualstudio.com/items?itemName=jgalianoz.qr-generator)** | VS Code extension that turns any string into a QR code. | `JavaScript` |
-| **[Personal site](https://jgalianoz-website.vercel.app/)** | Portfolio and writing, built as a static site. | `Astro` · `Tailwind` |
 
 #### Currently
 
